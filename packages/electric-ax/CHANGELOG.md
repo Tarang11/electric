@@ -1,5 +1,11 @@
 # electric-ax
 
+## 0.1.18
+
+### Patch Changes
+
+- b16ef14: fix: don't show a stale error before the first API key prompt when no key is configured
+
 ## 0.1.17
 
 ### Patch Changes
